@@ -19,6 +19,8 @@ yarn
 yarn start
 ```
 
+The API will be running at http://localhost:3000/
+
 ---
 ---
 
